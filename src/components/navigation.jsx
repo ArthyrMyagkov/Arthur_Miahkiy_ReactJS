@@ -8,7 +8,7 @@ import React, { useState } from "react";
 
 function Navigation() {
   // State to track which section is active
-  const [activeSection, setActiveSection] = useState("HardSkills");
+  const [activeSection, setActiveSection] = useState("AboutMe");
 
   return (
     <>
