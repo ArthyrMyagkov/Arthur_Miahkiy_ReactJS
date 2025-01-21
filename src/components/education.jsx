@@ -3,7 +3,7 @@ import image from '../Images/KPI.jpg';
 function Education(){
     return(
         <div className="My-education animate__animated animate__bounceInUp" id="id_myEducation">
-                        <h2> <i class="fa-solid fa-graduation-cap"></i> NTU "Igor Sikorsky Kyiv Polytechnic Institute"</h2>
+                        <h2> <i class="fa-solid fa-graduation-cap"></i> NATIONAL TECHNICAL UNIVERSITY OF UKRAINE "Igor Sikorsky Kyiv Polytechnic Institute"</h2>
                         <hr></hr>
                         <p>Specialization: Automation and
                             computer-integrated technologies <br></br>
