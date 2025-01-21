@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Arthur_Miahkiy_ReactJS/static/css/main.b53b0cce.css",
+    "main.css": "/Arthur_Miahkiy_ReactJS/static/css/main.2a970db0.css",
     "main.js": "/Arthur_Miahkiy_ReactJS/static/js/main.9733b932.js",
     "static/js/488.6870b743.chunk.js": "/Arthur_Miahkiy_ReactJS/static/js/488.6870b743.chunk.js",
     "static/media/SoftSkills.jpg": "/Arthur_Miahkiy_ReactJS/static/media/SoftSkills.f305a4cdcac360bef542.jpg",
@@ -11,12 +11,12 @@
     "static/media/KPI.jpg": "/Arthur_Miahkiy_ReactJS/static/media/KPI.868f0125aa4c9ca181a7.jpg",
     "static/media/AboutMe.jpg": "/Arthur_Miahkiy_ReactJS/static/media/AboutMe.f74f449ea2e8a000da1b.jpg",
     "index.html": "/Arthur_Miahkiy_ReactJS/index.html",
-    "main.b53b0cce.css.map": "/Arthur_Miahkiy_ReactJS/static/css/main.b53b0cce.css.map",
+    "main.2a970db0.css.map": "/Arthur_Miahkiy_ReactJS/static/css/main.2a970db0.css.map",
     "main.9733b932.js.map": "/Arthur_Miahkiy_ReactJS/static/js/main.9733b932.js.map",
     "488.6870b743.chunk.js.map": "/Arthur_Miahkiy_ReactJS/static/js/488.6870b743.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b53b0cce.css",
+    "static/css/main.2a970db0.css",
     "static/js/main.9733b932.js"
   ]
 }
