@@ -1,0 +1,198 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+main{
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+h2{
+    text-transform: uppercase;
+}
+
+.CV-header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 150px;
+    align-items: center;
+    background: url(../Images/Header-background.jpg) bottom no-repeat fixed;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 1.6rem;
+    line-height: 50px;
+}
+
+.CV-header h1{
+    text-transform: uppercase;
+}
+
+.CV-header__avatar{
+    display: block;
+    box-sizing: border-box;
+    width: 250px;
+}
+
+.CV-info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+
+
+.Navigation-bar{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.Navigation-bar .Nav-Button{
+    background-color: black;
+    border-radius: 5px;
+    color: white;
+    padding: 10px;
+    text-transform: uppercase;
+    text-decoration: none;
+    cursor: pointer;
+    width: 140px;
+    font-size: 14px;
+    text-align: center;
+}
+.Navigation-bar .Nav-Button:hover{
+    color: rgba(255, 255, 255, 0.645);
+    background-color: rgba(0, 0, 0, 0.655);
+    transition: all 0.4s;
+}
+
+.Displayable-section{
+    width: 700px;
+}
+.Displayable-section div{
+    margin-top: 20px;
+}
+
+.My-education img{
+ margin-top: 20px;
+ box-sizing:border-box;
+ width: 100%;
+}
+.My-contacts{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    line-height: 30px;
+    font-size: 1.2rem;
+}
+.My-contacts li{
+    list-style: none;
+}
+.My-contacts a{
+    position: relative;
+    color: blue;
+    text-decoration: none;
+}
+.My-contacts a::after{
+    position: absolute;
+    margin-top: 29px;
+    margin-left: -100%;
+    content: "";
+    box-sizing: border-box;
+    width: 0%;
+    background-color: rgba(0, 0, 255, 0.599);
+}
+.My-contacts a:hover::after{
+    transition: all 0.4s;
+    height: 2px;
+    width: 100%;
+}
+.Contact-icons{
+    display: flex;
+    gap: 20px;
+    font-size: 4rem;
+    align-items: center;
+    text-decoration: none;
+}
+.Contact-icons a{
+    color: black;
+}
+.Contact-icons a::after{
+    display: none;
+
+}
+.Contact-icons a:hover{
+    color: rgba(0, 0, 255, 0.517);
+    transition: all 0.4s;
+}
+.My-work-experience__image{
+    box-sizing: border-box;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.Displayable-section_none{
+    display: none;
+    opacity: 0;
+    transition: all 0.4s;
+}
+.My-soft-skills img{
+    box-sizing: border-box;
+    padding-top: 20px;
+    width: 100%;
+}
+.About-me img{
+    box-sizing: border-box;
+    padding-top: 20px;
+    width: 100%;
+}
+
+@media screen and (max-width: 720px) {
+
+    .CV-header{
+        flex-direction: row;
+        gap:15px;
+        font-size: 1rem;
+        line-height: 32px;
+    }
+    .CV-header h4{
+        font-size: 1.3rem;
+
+    }
+    .CV-header img{
+        width: 25%;
+    }
+    .About-me{
+        width: 300px;
+    }
+    .Navigation-bar{
+        flex-wrap: wrap;
+        gap:15px;
+        width: 300px;
+    }
+    .Navigation-bar a{
+        width: 130px;
+        font-size: 1rem;
+        padding: 5px;
+        text-align: center;
+    }
+    .Displayable-section{
+        width: 300px;
+    }
+    .My-contacts{
+        flex-direction: column;
+        align-items: center;
+    }
+    .CV-header{
+        text-align: center;
+    }
+
+    
+
+
+    
+}
