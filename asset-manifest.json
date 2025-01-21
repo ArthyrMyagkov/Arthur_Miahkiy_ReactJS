@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Arthur_Miahkiy_ReactJS/static/css/main.b53b0cce.css",
+    "main.js": "/Arthur_Miahkiy_ReactJS/static/js/main.a1579c77.js",
+    "static/js/488.6870b743.chunk.js": "/Arthur_Miahkiy_ReactJS/static/js/488.6870b743.chunk.js",
+    "static/media/SoftSkills.jpg": "/Arthur_Miahkiy_ReactJS/static/media/SoftSkills.f305a4cdcac360bef542.jpg",
+    "static/media/Header-background.jpg": "/Arthur_Miahkiy_ReactJS/static/media/Header-background.a796d019810cd678c7b5.jpg",
+    "static/media/HumanitarianAid.jpg": "/Arthur_Miahkiy_ReactJS/static/media/HumanitarianAid.ecc6aed7c5fedccf13e8.jpg",
+    "static/media/Office.jpg": "/Arthur_Miahkiy_ReactJS/static/media/Office.24d8f8c12acecf418efd.jpg",
+    "static/media/Avatar.png": "/Arthur_Miahkiy_ReactJS/static/media/Avatar.580e337e4e684e30c092.png",
+    "static/media/KPI.jpg": "/Arthur_Miahkiy_ReactJS/static/media/KPI.868f0125aa4c9ca181a7.jpg",
+    "static/media/AboutMe.jpg": "/Arthur_Miahkiy_ReactJS/static/media/AboutMe.f74f449ea2e8a000da1b.jpg",
+    "index.html": "/Arthur_Miahkiy_ReactJS/index.html",
+    "main.b53b0cce.css.map": "/Arthur_Miahkiy_ReactJS/static/css/main.b53b0cce.css.map",
+    "main.a1579c77.js.map": "/Arthur_Miahkiy_ReactJS/static/js/main.a1579c77.js.map",
+    "488.6870b743.chunk.js.map": "/Arthur_Miahkiy_ReactJS/static/js/488.6870b743.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b53b0cce.css",
+    "static/js/main.a1579c77.js"
+  ]
+}
